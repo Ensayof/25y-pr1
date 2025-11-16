@@ -54,7 +54,7 @@ inhibit_rules:
 alertmanager --config.file=alertmanager.yml
 ```
 2. Проверить веб-интерфейс
-Открыть в браузере: [Название ссылки](http://localhost:9093)
+Открыть в браузере: [Тык](http://localhost:9093)
 3. Интеграция с Prometheus `prometheus.yml` добавить:
 ```
 alerting:
